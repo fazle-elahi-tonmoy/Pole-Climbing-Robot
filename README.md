@@ -10,7 +10,7 @@ This project was developed as a proof-of-concept inspection robot for electrical
 
 # Project Demonstration
 
-![Pole Climbing Robot](images/Pole_Climbing_Robot.gif)
+![Pole Climbing Robot](Pole_Climbing_Robot.gif)
 
 The robot can:
 
